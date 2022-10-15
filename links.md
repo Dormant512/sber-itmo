@@ -7,3 +7,9 @@
 [RuBERT tiny in torch](https://habr.com/ru/post/567028/) - easier way for classification in torch.
 
 [RuBERT tiny](https://huggingface.co/cointegrated/rubert-tiny) - main page.
+
+[RusVectores (word2vec)](https://rusvectores.org/ru/about/) - about page.
+
+[RusVectores (example)](https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tutorial.ipynb) - example use case.
+
+[Ways of text processing](https://www.kdnuggets.com/2021/11/guide-word-embedding-techniques-nlp.html) - 4 main ways.

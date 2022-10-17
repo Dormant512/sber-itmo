@@ -34,7 +34,7 @@ def get_news_from_date(cur_date):
 
 if __name__ == "__main__":
 
-    with open('lenta_news.csv', 'w', newline='') as csvfile:
+    with open('sber_work_files/lenta_news.csv', 'w', newline='') as csvfile:
         news_writer = csv.writer(csvfile, delimiter='\t', quotechar='"', \
                 quoting=csv.QUOTE_ALL, skipinitialspace=True)
         news_writer.writerow(["date", "title"])

@@ -1,5 +1,15 @@
 # Useful links
 
+[BERTopic dynamic](https://maartengr.github.io/BERTopic/getting_started/topicsovertime/topicsovertime.html#example) - main topics over time.
+
+
+
+
+
+
+
+## Useless links 
+
 [BERT model](http://docs.deeppavlov.ai/en/master/features/models/bert.html) - link to the main page of BERT models (downloads and implementations, RuBERT to be used).
 
 [BERT in tensorflow](https://www.tensorflow.org/text/tutorials/classify_text_with_bert) - how to use BERT models in tensorflow.

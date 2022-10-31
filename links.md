@@ -1,10 +1,18 @@
 # Useful links
 
+
+
+## Arimax
+
+[ARIMAX notebook](https://www.kaggle.com/code/chandra03/how-to-use-sarimax-and-arimax/notebook#ARIMAX-Model's-summary-check) - implementation in jupyter.
+
+[Statsmodel](https://pypi.org/project/statsmodels/) - pypy package.
+
+
+
+## Old
+
 [BERTopic dynamic](https://maartengr.github.io/BERTopic/getting_started/topicsovertime/topicsovertime.html#example) - main topics over time.
-
-
-
-
 
 
 

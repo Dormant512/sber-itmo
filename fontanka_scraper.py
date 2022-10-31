@@ -13,7 +13,6 @@ def daterange(start_date, end_date):
 start_date = date(2020, 1, 1)
 end_date = date(2020, 9, 30)
 
-
 def get_news_from_date(cur_date):
     """Returns all news titles from FONTANKA.RU from a given date."""
     date_url = cur_date.strftime("%Y/%m/%d")

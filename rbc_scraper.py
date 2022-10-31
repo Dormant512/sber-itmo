@@ -12,8 +12,7 @@ def daterange(start_date, end_date):
         yield start_date + timedelta(n)
 
 
-#start_date = date(2020, 1, 1)
-start_date = date(2020, 5, 25)
+start_date = date(2020, 1, 1)
 end_date = date(2020, 9, 30)
 
 
@@ -49,7 +48,7 @@ def get_news_from_date(cur_date):
 
 if __name__ == "__main__":
 
-        with open(f"sber_work_files/rbc_news_part_2.csv", 'w', newline='') as csvfile:
+        with open(f"sber_work_files/rbc_news.csv", 'w', newline='') as csvfile:
             news_writer = csv.writer(csvfile, delimiter='\t', quotechar='"', \
                     quoting=csv.QUOTE_ALL, skipinitialspace=True)
             news_writer.writerow(["date", "title"])

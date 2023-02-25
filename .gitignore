@@ -1,2 +1,5 @@
-# ignore all files in sber_work_files directory
-**/sber_work_files
+# ignore all files in directories
+**/TRANS
+**/SCRAPED-DATA
+**/LEGACY_DATA
+**/.ipynb_checkpoints
